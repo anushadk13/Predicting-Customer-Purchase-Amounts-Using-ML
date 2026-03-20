@@ -1,6 +1,3 @@
-Here’s a clean and professional version of your README:
-
----
 
 # Predicting Customer Purchase Amounts Using Machine Learning
 
